@@ -1,0 +1,29 @@
+#include <stdio.h>
+#include<conio.h>
+#include<math.h>
+float f<float x);
+void main()
+{
+  float k=0.0,h,x,a,b;
+  int i;
+  clrscr();
+  /*Input Data*/
+  printf(The function of f(x):1/(1+x*X);
+         printf(/nEnter the limits;)
+         /*calculate the integral*/
+         printf("/nx  f(x));
+for(i=0,x=a;x<b-h;x=x+h;i++)
+{
+/*Printing portion*/
+Printf("/n%f%15.6f",x,f(x+h);
+}
+Printf("/n/n The definite integral is %15.f",(h/2.0)*k);
+getch();
+}
+float f(float x)
+{
+Return(1/(1+x*x));
+}
+/*Output*/
+
+e
